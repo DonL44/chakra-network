@@ -24,7 +24,7 @@ See [Part 1](https://drive.google.com/file/d/1BD94UKPpLxtj2-VGJeoLG3lwQcxKw1nb/v
 
 Copyright 2021 DonL
 
-<!-- This project is licensed under the MIT License. For the full license see this [link](https://opensource.org/licenses/MIT) -->
+This project is licensed under the MIT License. For the full license see this [link](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
