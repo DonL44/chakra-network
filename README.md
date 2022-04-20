@@ -16,7 +16,7 @@ A user can use this API to create new users with a valid username and email, add
 To run this code, simply clone the code, open the cloned code in your favorite IDE, run `npm install` to install dependencies and then run `npm start` to start the server.
 ## Screenshots
 
-[Demo Screenshot](C:\Users\Donov\OneDrive\Desktop\bootcamp\Challenges\chakra-network\images\screenshot-demo.png)
+![Demo Screenshot](https://github.com/DonL44/chakra-network/blob/c27f6ad3c31e5d4b6923889f95bc1c0ba2f4df2e/images/screenshot-demo.png)
 
 ## Usage
 
