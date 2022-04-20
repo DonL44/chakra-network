@@ -17,7 +17,7 @@ To run this code, simply clone the code, open the cloned code in your favorite I
 
 ## Usage
 
-<!-- See [this](https://www.youtube.com/watch?v=EE18HzbpbPs) video to see an example of how this Social Network API is used. -->
+See [Part 1](https://drive.google.com/file/d/1BD94UKPpLxtj2-VGJeoLG3lwQcxKw1nb/view), [Part 2](https://drive.google.com/file/d/1qiXMRtf1-0uQ8OFf9arJ5_Tra9bmqJHs/view), and [Part 3](https://drive.google.com/file/d/1qiAvAQbzkAAWC6qZbqxPli8fkN4TW7C5/view) to see an example of how this Social Network API is used.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
